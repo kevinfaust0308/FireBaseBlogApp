@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "1048084638721",
+    "firebase_url": "https://blogapp-a1f9e.firebaseio.com",
+    "project_id": "blogapp-a1f9e",
+    "storage_bucket": "blogapp-a1f9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048084638721:android:8e94a18a685d4ade",
+        "android_client_info": {
+          "package_name": "com.monsoonblessing.fireblogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048084638721-1o1rjvo7j3un9s8p0gt6jqgb0es3k29u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monsoonblessing.fireblogapp",
+            "certificate_hash": "72BC7B18C04B288BF8CC9282A17D1B83FB46CFBB"
+          }
+        },
+        {
+          "client_id": "1048084638721-7brpp5jpq196ipuchag2ifgga96109hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "AIzaSyC5X1ZqRn6bWJBhXQMEtgqvsf7J6NDf_ok" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048084638721-7brpp5jpq196ipuchag2ifgga96109hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
